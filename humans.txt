@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Arko Dutta dutta.arkaprabha@gmail.com
 
 # THANKS
 
